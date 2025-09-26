@@ -1,9 +1,9 @@
 Mondrian Video Endings
 ----------------------
 I present to you these endtitle videos, free of charge OR license, to optionally use with your Mondrian - Plastic Reality videos, be they gameplay, speedpaints, tutorials, or anything in between.
-These videos come in two varieties:
+These videos come in two varieties:<br>
 ![mpr_shortsEnding_vertical](https://github.com/user-attachments/assets/c4d758f3-2294-49ab-b51b-5bdd924edfea)
-<br><b>Vertical:</b> Available in MP4 and MOV format. Use this one for vertical videos to be viewed on mainly mobile devices. Suggested platforms include YouTube, Instagram, and TikTok.
+<br><b>Vertical:</b> Available in MP4 and MOV format. Use this one for vertical videos to be viewed on mainly mobile devices. Suggested platforms include YouTube, Instagram, and TikTok.<br>
 ![mpr_shortsEnding_widscreen](https://github.com/user-attachments/assets/54c8ba73-ed11-44f4-b136-93dc3b91f695)
 <br><b>Widescreen:</b> Available in MP4 and MOV format. Use this one for widescreen videos to be viewed mainly on desktop monitors, laptops, or TV's. Suggested platforms include YouTube, Facebook, and Twitter.
 
